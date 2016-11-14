@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702157230322",
+    "project_id": "operating-spot-149302"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702157230322:android:f4aa2e5840321dd1",
+        "android_client_info": {
+          "package_name": "com.interview.skorfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702157230322-logh1ca0o5kelukb9sc6uugvj9ql9u44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.interview.skorfit",
+            "certificate_hash": "88D7DC8D4D05F5835E977A96719121BC4AEDB1BC"
+          }
+        },
+        {
+          "client_id": "702157230322-c46oh8h91vltrh0lpdpfbed8nta15vtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1t_cP9LzuDKEqdmIi3IbEG3_cTuMhswc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
